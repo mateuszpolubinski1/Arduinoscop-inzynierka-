@@ -76,9 +76,12 @@ Custom printed circuit boards were designed using **KiCad**, with particular att
 
 <img width="1936" height="854" alt="image" src="https://github.com/user-attachments/assets/b00b64c9-269d-4aaa-853f-54af32990313" />
 <img width="1681" height="795" alt="image" src="https://github.com/user-attachments/assets/917e65bb-128d-4a55-89b6-048ccf4fe22e" />
-<img width="1683" height="794" alt="image" src="https://github.com/user-attachments/assets/075c0ead-aa3d-4c9d-b90d-044048f8fa97" />
-<img width="1683" height="794" alt="image" src="https://github.com/user-attachments/assets/65720242-1a99-4b6d-b1a2-370e1d69cefe" />
-<img width="1683" height="794" alt="image" src="https://github.com/user-attachments/assets/60a2c4cb-c065-41ff-83d3-ffe9a837b8a4" />
+<img width="1681" height="795" alt="image" src="https://github.com/user-attachments/assets/5fa32654-d9b7-48c2-b9ff-0caf878b1083" />
+<img width="1724" height="791" alt="image" src="https://github.com/user-attachments/assets/b4db2c8a-d295-47c3-813b-ef5ea9bfe425" />
+<img width="1622" height="794" alt="image" src="https://github.com/user-attachments/assets/6fd2164d-1e2b-4d8b-b023-3b8fa9c67945" />
+
+
+
 
 
 PCB design highlights:
